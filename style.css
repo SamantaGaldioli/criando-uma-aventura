@@ -2,4 +2,16 @@ body{
     background-color: rgb(243, 122, 243);
     color: black;
     font-family: "Sedan SC", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    
+    background-color: rgb(255, 172, 255);
+   color: rgb(0, 0, 0);
+    font-family: "Sedan SC", serif;
 }
